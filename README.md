@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/42727681/190483064-ad539b73-8ab3-4c39-8374-d887813a256d.png" style="float:center">
 -->
 
-<h3 align="center">Hi 👋, I'm Mrinmoy Pal(Frontend Developer)</h3>
+<h3 align="center">Hi 👋, I'm Mrinmoy Pal (Frontend Developer)</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 
@@ -108,11 +108,11 @@ Here are some ideas to get you started:
 
 ---
 
-<h3 align="left">🌐 Connect 🔗 or follow me on LinkedIn:
+<h3 align="left">🌐 Connect 🔗 or follow me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mrinmoy-pal-a645011a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mrinmoy-pal-a645011a4/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mrinmoy-pal-a645011a4/" target="blank"><img align="center" src="https://tinyurl.com/35jdcmm8" alt="https://www.linkedin.com/in/mrinmoy-pal-a645011a4/" height="30" width="40" /></a>
 </p>
-</h3>
+
 
 ---
 
