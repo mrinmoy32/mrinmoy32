@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <img src="https://user-images.githubusercontent.com/42727681/190483064-ad539b73-8ab3-4c39-8374-d887813a256d.png" style="float:center">
+-->
 
-
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am Mrinmoy (Frontend Developer)</h3>
 
 ----
 
@@ -28,33 +29,27 @@ Here are some ideas to get you started:
 
 ## About Myself:
 
-- 👨‍🎓 I've studied B.E. Electronics and Communication Engineering from <a href="http://jnnce.ac.in/jnndemo/">JNNCE</a>, Shivamogga.
-
-- 🔭 I’m currently working on [ElectroMart](https://github.com/mrinmoy32/ElectroMart_V1)
+- 🔭 I’m currently working on [Project-MERN-FullStack ](https://github.com/mrinmoy32/Project-MERN-FullStack)
 
 - 🧠 I’m currently learning **Full stack development [MERN].**
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/mrinmoy32)
 
-- 📫 How to reach me **manojshimoga38@gmail.com**
+- 📫 How to reach me **mrinmoypal484@gmail.com**
 
 - 🥅 2023 Goals: Contribute more to Open Source projects and complete MERN stack.
-
-- 👀 I love to explore new technologies
-
-- 📄 Know more about me [https://](https://)
-
-- 🇮🇳 I'm from India.
 
 - ⚡ FunFact: I love to spend most of my time using my laptop (hobby projects and others) and listening to Beethoven 🎶 😆.
 
 ---
 
+<!--
 ### Resume and Portofolio
 
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](links)
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](links)
 
+-->
 ---
 
 <h3 align="left">🛠 Languages and Tools:</h3>
@@ -113,7 +108,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">🌐 Connect 🔗 or follow me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/manoj-m-shimoga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manoj-m-shimoga/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mrinmoy-pal-a645011a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mrinmoy-pal-a645011a4/" height="30" width="40" /></a>
 </p>
 
 ---
