@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/42727681/190483064-ad539b73-8ab3-4c39-8374-d887813a256d.png" style="float:center">
 -->
 
-<h3 align="center">Hi 👋, I'm Mrinmoy Pal (Frontend Developer)</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<h1 align="center">Hi 👋, I'm Mrinmoy Pal</h1>
+<h3 align="center">A Frontend Developer from Kolkata India</h3>
+<img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 
 
