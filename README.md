@@ -60,6 +60,7 @@ Here are some ideas to get you started:
 <h3> Statistics:</h3>
  
 
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrinmoy32)](https://git.io/streak-stats)
 
 ---
@@ -110,7 +111,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">🌐 Connect 🔗 or follow me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mrinmoy-pal-a645011a4/" target="blank"><img align="center" src="https://tinyurl.com/35jdcmm8" alt="https://www.linkedin.com/in/mrinmoy-pal-a645011a4/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mrinmoy-pal-a645011a4/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRCl-CENw0Z-OeaFbqQ2DXOiyzI0e4Xa6MMA&usqp=CAU" alt="https://www.linkedin.com/in/mrinmoy-pal-a645011a4/" height="30" width="40" /></a>
 </p>
 
 
