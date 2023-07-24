@@ -1,4 +1,4 @@
-### Hi there 👋
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
 <!--
 **mrinmoy32/mrinmoy32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/42727681/190483064-ad539b73-8ab3-4c39-8374-d887813a256d.png" style="float:center">
 -->
 
-<h3 align="center">I am Mrinmoy (Frontend Developer)</h3>
+<h3 align="center">Hi 👋, I'm Mrinmoy Pal(Frontend Developer)</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 ----
 
@@ -97,12 +98,12 @@ Here are some ideas to get you started:
 ### 📈 GitHub Activity Graph:
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mrinmoy32&theme=github)
  
- ---
+ <!-- ---
  
  <div align="center"> 
 <b>Random dev joke for you!</b></br></br>
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
-</div>
+</div> -->
 
 ---
 
