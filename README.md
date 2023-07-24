@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 <!-- GITHUB STATISTICS -->
 ### My Github Statistics:
   
- ![Github stats](https://github-readme-stats.vercel.app/api?username=manoj633) 
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=mrinmoy32) 
  
  
  
