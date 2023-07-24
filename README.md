@@ -103,10 +103,10 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="left" href="https://www.linkedin.com/in/mrinmoy-pal-a645011a4/">🌐 Connect 🔗 or follow me on LinkedIn:</h3>
-<span>
+<h3 align="left" href="https://www.linkedin.com/in/mrinmoy-pal-a645011a4/">🌐 Connect 🔗 or follow me on LinkedIn:<span>
 <a href="https://www.linkedin.com/in/mrinmoy-pal-a645011a4/" target="blank">in/mrinmoy-pal-a645011a4/</a>
-</span>
+</span></h3>
+
 
 ---
 
