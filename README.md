@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ----
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manoj633&label=Profile%20views&color=0e75b6&style=flat" alt="manoj633" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrinmoy32&label=Profile%20views&color=0e75b6&style=flat" alt="mrinmoy32" /> </p>
 
 ---
 
@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 
 - 👨‍🎓 I've studied B.E. Electronics and Communication Engineering from <a href="http://jnnce.ac.in/jnndemo/">JNNCE</a>, Shivamogga.
 
-- 🔭 I’m currently working on [ElectroMart](https://github.com/manoj633/ElectroMart_V1)
+- 🔭 I’m currently working on [ElectroMart](https://github.com/mrinmoy32/ElectroMart_V1)
 
 - 🧠 I’m currently learning **Full stack development [MERN].**
 
-- 👨‍💻 All of my projects are available at [Projects](https://github.com/manoj633)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/mrinmoy32)
 
 - 📫 How to reach me **manojshimoga38@gmail.com**
 
@@ -63,13 +63,13 @@ Here are some ideas to get you started:
 <h3> Statistics:</h3>
  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manoj633)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrinmoy32)](https://git.io/streak-stats)
 
 ---
 
 ### 🏆 Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=manoj633)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrinmoy32)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 --- 
@@ -88,19 +88,19 @@ Here are some ideas to get you started:
 ### Most used Language
 **Note** This statistics gives the most used language in my project/repo not my programming language skill percentage.
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoj633&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrinmoy32&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
  
  
  ---
  ### Commits per day:
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manoj633)<br><br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrinmoy32)<br><br>
 
 
 ---
  
  <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=manoj633&theme=github)
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mrinmoy32&theme=github)
  
  ---
  
