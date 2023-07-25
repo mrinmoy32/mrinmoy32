@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 - 🥅 2023 Goals: Contribute more to Open Source projects and complete MERN stack.
 
-- ⚡ FunFact: I love to spend most of my time using my laptop (hobby projects and others) and listening to Beethoven 🎶 😆.
+- ⚡ FunFact: I love to spend most of my time using my laptop (hobby projects and others) and listening to music 🎶 😆.
 
 ---
 
