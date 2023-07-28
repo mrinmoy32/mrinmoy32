@@ -89,8 +89,8 @@ Here are some ideas to get you started:
     </td>
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/jira-icon.svg" width="48" height="48"  alt="JIRA" />
-      <br>JIRA
+        <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" width="48" height="48"  alt="Nextjs" />
+      <br>Nextjs
     </td>
   </tr>
   <tr>
