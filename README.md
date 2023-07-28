@@ -89,7 +89,7 @@ Here are some ideas to get you started:
     </td>
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" width="48" height="48"  alt="Nextjs" />
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48"  alt="Nextjs" />
       <br>Nextjs
     </td>
   </tr>
@@ -99,7 +99,7 @@ Here are some ideas to get you started:
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Github" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=github" alt="Github" width="48" height="48" />
       <br>Github
     </td>
     <td align="center" width="96"> 
