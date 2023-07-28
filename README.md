@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 
 **Note** This statistics gives the most used language in my project/repo not my programming language skill percentage.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrinmoy32&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrinmoy32&theme=gotham&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
