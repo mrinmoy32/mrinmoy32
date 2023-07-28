@@ -56,13 +56,13 @@ Here are some ideas to get you started:
 
 <h3> Statistics:</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrinmoy32)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrinmoy32&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%")](https://git.io/streak-stats)
 
 ---
 
 ### 🏆 Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrinmoy32&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrinmoy32&theme=onestar&no-frame=true&column=5&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
