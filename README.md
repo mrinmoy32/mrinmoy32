@@ -60,11 +60,9 @@ Here are some ideas to get you started:
       <br>React
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Nodejs" width="65" height="65" />
-      </a>
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
-    </td>
+      </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
       <br>JavaScript
@@ -74,7 +72,7 @@ Here are some ideas to get you started:
       <br>MongoDB
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/expressjs-icon.svg" width="48" height="48" alt="Expressjs" />
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Expressjs" />
       <br>Expressjs
     </td>
     <td align="center" width="96">
@@ -105,11 +103,11 @@ Here are some ideas to get you started:
       <br>Github
     </td>
     <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="50" alt="Git" />
       <br>Git
     </td>
     <td align="center"  width="96">
-        <img src="https://techstack-generator.vercel.app/gitlab-icon.svg" width="48" height="48" alt="Gitlab" />
+        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="Gitlab" />
       <br>Gitlab
     </td>
     <td align="center"  width="96">
