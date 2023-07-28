@@ -60,7 +60,7 @@ Here are some ideas to get you started:
       <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+        <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Nodejs" />
       <br>Nodejs
       </td>
     <td align="center" width="96">
@@ -68,11 +68,11 @@ Here are some ideas to get you started:
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
       <br>MongoDB
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Expressjs" />
+        <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Expressjs" />
       <br>Expressjs
     </td>
     <td align="center" width="96">
@@ -84,89 +84,89 @@ Here are some ideas to get you started:
       <br>TypeScript
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+        <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VsCode" />
       <br>VsCode
     </td>
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48"  alt="Nextjs" />
+        <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65"  alt="Nextjs" />
       <br>Nextjs
     </td>
   </tr>
   <tr>
   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+        <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" alt="Github" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=github" alt="Github" width="65" height="65" />
       <br>Github
     </td>
     <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="50" alt="Git" />
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="Git" />
       <br>Git
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="Gitlab" />
+        <img src="https://skillicons.dev/icons?i=gitlab" width="65" height="65" alt="Gitlab" />
       <br>Gitlab
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+        <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
       <br>HTML5
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+        <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="css" />
       <br>CSS
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="bootstrap" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+        <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="tailwind" />
       <br>Tailwind
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+        <img src="https://skillicons.dev/icons?i=sass" width="65" height="65" alt="Sass" />
       <br>Sass
     </td>
   </tr>
  <!-- <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
       <br>MongoDB
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+        <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Nodejs" />
       <br>Nodejs
       </td>
       </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+        <img src="https://skillicons.dev/icons?i=php" width="65" height="65" alt="PHP" />
       <br>PHP
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+        <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VsCode" />
       <br>VsCode
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
+        <img src="https://skillicons.dev/icons?i=wordpress" width="65" height="65" alt="WordPress" />
       <br>WordPress
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+        <img src="https://skillicons.dev/icons?i=vue" width="65" height="65" alt="Vue" />
       <br>Vue
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+        <img src="https://skillicons.dev/icons?i=sass" width="65" height="65" alt="Sass" />
       <br>Sass
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
+        <img src="https://skillicons.dev/icons?i=graphql" width="65" height="65" alt="MySQL" />
       <br>GraphQL
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+        <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
  </tr> -->
