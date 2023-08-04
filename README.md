@@ -1,4 +1,4 @@
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
+<!-- [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()  -->
 
 <!--
 **mrinmoy32/mrinmoy32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
