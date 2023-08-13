@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 🧠 I’m currently learning **Full stack development [MERN].**
 
-- 👨‍💻 All of my projects are available at [Projects](https://github.com/mrinmoy32)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/mrinmoy32?tab=repositories)
 
 - 📫 How to reach me **mrinmoypal484@gmail.com**
 
