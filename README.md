@@ -229,7 +229,7 @@ Here are some ideas to get you started:
 </div> -->
 
 <h4 align="left" href="https://www.linkedin.com/in/mrinmoy32/">🌐 Connect 🔗 or follow me on LinkedIn:<small style="font-size:lighter">
-<a href="https://www.linkedin.com/in/mrinmoy32/" target="blank">in/mrinmoy-pal-a645011a4</a>
+<a href="https://www.linkedin.com/in/mrinmoy32/" target="blank">in/mrinmoy32</a>
 </small></h4>
 
 ---
