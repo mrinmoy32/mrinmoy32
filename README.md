@@ -228,8 +228,8 @@ Here are some ideas to get you started:
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
 </div> -->
 
-<h4 align="left" href="https://www.linkedin.com/in/mrinmoy-pal-a645011a4/">🌐 Connect 🔗 or follow me on LinkedIn:<small style="font-size:lighter">
-<a href="https://www.linkedin.com/in/mrinmoy-pal-a645011a4/" target="blank">in/mrinmoy-pal-a645011a4</a>
+<h4 align="left" href="https://www.linkedin.com/in/mrinmoy32/">🌐 Connect 🔗 or follow me on LinkedIn:<small style="font-size:lighter">
+<a href="https://www.linkedin.com/in/mrinmoy32/" target="blank">in/mrinmoy-pal-a645011a4</a>
 </small></h4>
 
 ---
