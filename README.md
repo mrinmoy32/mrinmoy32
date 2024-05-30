@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrinmoy32&label=Profile%20views&color=0e75b6&style=flat" alt="mrinmoy32" /> </p>
 
-## About Myself:
+### About Myself:
 
 - 🔭 I’m currently working on [Project-MERN-FullStack ](https://github.com/mrinmoy32/Project-MERN-FullStack)
 
