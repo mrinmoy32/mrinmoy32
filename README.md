@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ---
 -->
 
-<h3 align="left">🛠 Languages and Tools:</h3>
+<h2 align="left">🛠 Languages and Tools:</h2>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
