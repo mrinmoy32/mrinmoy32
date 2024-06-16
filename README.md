@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="React" width="48" height="48" />
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
       <br>React
     </td>
     <td align="center" width="96">
@@ -123,8 +123,8 @@ Here are some ideas to get you started:
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="tailwind" />
-      <br>Python
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="React" width="48" height="48" />
+      <br>React
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
