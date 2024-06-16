@@ -123,8 +123,8 @@ Here are some ideas to get you started:
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="tailwind" />
+      <br>Python
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
