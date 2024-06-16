@@ -123,8 +123,8 @@ Here are some ideas to get you started:
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="React" width="48" height="48" />
-      <br>React
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+      <br>Python
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
