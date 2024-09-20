@@ -230,7 +230,7 @@ Here are some ideas to get you started:
 
 ### &#128200; Competitive Programming:
 <p float="left">
-<img height="233em" src="https://leetcard.jacoblin.cool/mrinmoy32?theme=react-dark&font=Karma&ext=contest" />
+<img height="233em" src="https://leetcard.jacoblin.cool/mrinmoy32?theme=dark&font=Karma&ext=contest" />
 </p>
 
 <h4 align="left" href="https://www.linkedin.com/in/mrinmoy32/">🌐 Connect 🔗 or follow me on LinkedIn:<small style="font-size:lighter">
