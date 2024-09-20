@@ -228,9 +228,9 @@ Here are some ideas to get you started:
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
 </div> -->
 
-<b>&#128200; Competitive Programming</b>
+### &#128200; Competitive Programming:
 <p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/mrinmoy32?theme=light&font=Karma&ext=contest" />
+<img height="233em" src="https://leetcard.jacoblin.cool/mrinmoy32?theme=react-dark&hide_border=true&hide_title=false&area=true&font=Karma&ext=contest" />
 </p>
 
 <h4 align="left" href="https://www.linkedin.com/in/mrinmoy32/">🌐 Connect 🔗 or follow me on LinkedIn:<small style="font-size:lighter">
