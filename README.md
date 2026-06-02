@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Mrinmoy Pal</h1>
-<h3 align="center">A Frontend Developer from India</h3>
+<h3 align="center">A FullStack Developer from India</h3>
 <img align="right" alt="Coding" width="360" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrinmoy32&label=Profile%20views&color=0e75b6&style=flat" alt="mrinmoy32" /> </p>
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Project-MERN-FullStack ](https://github.com/mrinmoy32/Project-MERN-FullStack)
 
-- 🧠 I’m currently learning **Full stack development [MERN].**
+- 🧠 I’m currently learning **AI Engineering (RAG and Agentic AI)**
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/mrinmoy32?tab=repositories)
 
